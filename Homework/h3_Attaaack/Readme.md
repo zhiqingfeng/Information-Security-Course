@@ -104,5 +104,9 @@
  ### Define procedure, and give an example of each.
  
  *I am defining procedure of each tecnique here.*
-     
+ 
+ 1. Adversary-in-the-Middle 
+    <img width="1103" alt="image" src="https://user-images.githubusercontent.com/95883827/217073019-a3a26b2e-07f6-4600-9dba-9d040ea5abb6.png">
+
+ 2. 
 
