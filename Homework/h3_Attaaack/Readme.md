@@ -8,22 +8,46 @@
 
 - The list of the ATT&CK enterprise's tactics
 
-       **Reconnaissance**
-             Collect as much as information about victim.
+  **Reconnaissance**
+      Collect as much as information about victim.
               
-       - Resource Development
-              - 
-       - Initial Access
-       - Execution
-       - Persistence
-       - Privilege Escalation
-       - Defense Evasion
-       - Credential Access
-       - Discovery
-       - Lateral Movement
-       - Collection
-       - Command and Control
-       - Exfiltration
-       - Impact
+  **Resource Development**
+      This technique tries to cover the process of assessing the resources that the adversary uses.
+      
+  **Initial Access**
+      This is the first step into the victim's environment. Try to get into network by using different entry vectors.
+  
+  **Execution**
+      Running malicious code inside the victim's environment. (esim escalating privileges or exfiltrating information.)
+      
+  **Persistence**
+      The threat actor can stay inside the system for a long time. Even thought the system turn it off or on.
+      
+  **Privilege Escalation**
+      The threat actors get inside the enterprise network through an unprivileged account.
+      
+  **Defense Evasion**
+      Avoiding being detected by the victim's defenses which could installing or uninstalling the software to remove their track.
+      
+  **Credential Access**
+      Try to act like they are the illega user to access the system.
+      
+  **Discovery**
+      Group all the activities that the threat actor did so that know about the vitcim's environment.
+      
+  **Lateral Movement**
+      The threat actor can try to transfer from one system to another until they reach their target.
+      
+  **Collection**
+      Gathering information from the victim's environment so that they can leak it later.
+      
+  **Command and Control**
+      The threat actor communicating with the systems under its control.
+  
+  **Exfiltration**
+      Try to remain undetected while the threat actior stealing information.
+      
+  **Impact**
+      All attempts to prevent the victim from accessing his/her system, including manipulating or destroying it, 
        
 - Mapping with ATT&CK
