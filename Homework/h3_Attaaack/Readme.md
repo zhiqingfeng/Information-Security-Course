@@ -50,4 +50,8 @@
   **Impact**
       All attempts to prevent the victim from accessing his/her system, including manipulating or destroying it, 
        
-- Mapping with ATT&CK
+- The ATT&CK Matrix
+  
+  <img width="1726" alt="image" src="https://user-images.githubusercontent.com/95883827/217062531-3dc59341-7624-48f4-85f9-0f60a2bbb71c.png">
+  
+  *All the technique pages follow the same pattern: the technique's name, a list of sub-techniques, a description of the technique, the scorecard that the platforms operate on, and the main data sources for finding that type of activity *
