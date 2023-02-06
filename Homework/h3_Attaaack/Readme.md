@@ -161,7 +161,7 @@
 
 ### Insecure Login: 2 Let's try
 
-
+*Encryption is a tool for secure communication. In this section, I will be understand of packet sniffer usage and able to intercept and read an unencrpted requests.*
 
 
 
