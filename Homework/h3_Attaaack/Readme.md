@@ -108,7 +108,11 @@
  1. **Adversary-in-the-Middle**
     <img width="1103" alt="image" src="https://user-images.githubusercontent.com/95883827/217073019-a3a26b2e-07f6-4600-9dba-9d040ea5abb6.png">
 
- 2. **Brute Force**
-    <img width="1191" alt="image" src="https://user-images.githubusercontent.com/95883827/217073290-dc84a49d-fa41-40ee-ba2c-883a832cd73a.png">
+ 2. **Archive Collected Data**
+    <img width="956" alt="image" src="https://user-images.githubusercontent.com/95883827/217073606-d26d6b57-b659-4fa6-ac57-5bdfff159432.png">
 
+ 3. **Audio Capture** (boodook)
+    <img width="1021" alt="image" src="https://user-images.githubusercontent.com/95883827/217073670-ff610afe-9123-483f-825a-91d920bdb488.png">
+ 
+ 4. **
 
