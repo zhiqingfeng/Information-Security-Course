@@ -124,6 +124,7 @@
     <img width="787" alt="image" src="https://user-images.githubusercontent.com/95883827/217074062-22f4f3f3-94eb-4f85-aa2b-e37104378f8a.png">
 
  7. **Data from Cloud Storage**
+    
     <img width="1244" alt="image" src="https://user-images.githubusercontent.com/95883827/217074148-f117bfaa-4e4f-4ff2-8413-58ebb2fc3d14.png">
 
  8. **Data from Configuration Repository**
