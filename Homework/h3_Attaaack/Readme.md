@@ -82,6 +82,7 @@
      i) T1056.001 – Keylogging
 
    - Take screenshots: Collection:
+     
      a) T1113 – Screen Capture
  
      
