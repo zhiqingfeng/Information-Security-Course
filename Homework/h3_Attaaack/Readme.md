@@ -198,5 +198,5 @@ Now try to get the username and password on WebGoat.
 [MITRE ATT&CK® ](https://attack.mitre.org/)
 
 **External**
-[
-OWASP WebGoat Sensitive Data Expo Insecure Login](https://www.youtube.com/watch?app=desktop&v=qawrnAIPDRs&ab_channel=TudellTechTV)
+
+[OWASP WebGoat Sensitive Data Expo Insecure Login](https://www.youtube.com/watch?app=desktop&v=qawrnAIPDRs&ab_channel=TudellTechTV)
