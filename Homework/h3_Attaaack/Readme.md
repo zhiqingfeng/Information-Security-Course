@@ -89,7 +89,16 @@
  ## y) Write an answer with references (this subtask does not require tests with a computer). Answer in the context of Mitre Att&ck, and pick examples that       are different from the chapter in task x.
 
  ### Define tactic and give an example.
+ 
+ - In this section, I am defining the teactic called 'Collection'. This is gathering information from the victim's environment so that they can leak it later. This tactic is included 17 techniques.
+ - Defination link: [Collection](https://attack.mitre.org/tactics/TA0009/).
+ - Example: Could be collect information by browsers, audio, video, and email. Common collection methods include capturing screenshots and keyboard input.
+ 
  ### Define technique and subtechnique, and give an example of each.
+ 
+ - 
  ### Define procedure, and give an example of each.
+ 
+ - 
      
 
