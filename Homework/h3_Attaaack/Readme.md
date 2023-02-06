@@ -85,5 +85,11 @@
      
      a) T1113 – Screen Capture
  
+ 
+ ## y) Write an answer with references (this subtask does not require tests with a computer). Answer in the context of Mitre Att&ck, and pick examples that       are different from the chapter in task x.
+
+ ### Define tactic and give an example.
+ ### Define technique and subtechnique, and give an example of each.
+ ### Define procedure, and give an example of each.
      
 
