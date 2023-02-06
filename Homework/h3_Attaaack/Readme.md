@@ -111,8 +111,56 @@
  2. **Archive Collected Data**
     <img width="956" alt="image" src="https://user-images.githubusercontent.com/95883827/217073606-d26d6b57-b659-4fa6-ac57-5bdfff159432.png">
 
- 3. **Audio Capture** (boodook)
+ 3. **Audio Capture** (bandook)
     <img width="1021" alt="image" src="https://user-images.githubusercontent.com/95883827/217073670-ff610afe-9123-483f-825a-91d920bdb488.png">
  
- 4. **
+ 4. **Automated Collection** (AppleSeed)
+    <img width="1085" alt="image" src="https://user-images.githubusercontent.com/95883827/217073867-94c32cd3-439e-488c-81ad-ca061f880fd0.png">
+
+ 5. **Browser Session Hijacking**
+    <img width="1182" alt="image" src="https://user-images.githubusercontent.com/95883827/217073978-cd2075c3-d646-4827-aa1d-c861b816f280.png">
+
+ 6. **Clipboard Data**
+    <img width="787" alt="image" src="https://user-images.githubusercontent.com/95883827/217074062-22f4f3f3-94eb-4f85-aa2b-e37104378f8a.png">
+
+ 7. **Data from Cloud Storage**
+    <img width="1244" alt="image" src="https://user-images.githubusercontent.com/95883827/217074148-f117bfaa-4e4f-4ff2-8413-58ebb2fc3d14.png">
+
+ 8. **Data from Configuration Repository**
+    
+ 9. **Data from Information Repositories**
+ 
+ 10. **Data from Local System** (AppleSeed)
+    <img width="1037" alt="image" src="https://user-images.githubusercontent.com/95883827/217074365-cdbcd1bb-7b00-47d4-9161-0a0517c3bc0a.png">
+
+ 11. **Data from Network Shared Drive**
+    <img width="1245" alt="image" src="https://user-images.githubusercontent.com/95883827/217074529-ea631d5b-dae6-45a9-9a31-7ca0ed2b6eec.png">
+
+ 12. **Data from Removable Media** (AppleSeed)
+    <img width="854" alt="image" src="https://user-images.githubusercontent.com/95883827/217074649-632528cf-375f-47e8-b329-9e4597238c82.png">
+
+ 13. **Data Staged**
+    <img width="1246" alt="image" src="https://user-images.githubusercontent.com/95883827/217074752-6c4eeaf9-0ac4-4eb7-a773-0f5d9d303f33.png">
+
+ 14. **Email Collection** (This is very commond)
+    <img width="948" alt="image" src="https://user-images.githubusercontent.com/95883827/217074825-f7e6284f-fc78-41fd-9c83-ecaa46687571.png">
+
+ 15. **Input Capture** 
+  *During normal system usage, users often provide credentials to various different locations, such as login pages/portals or system dialog boxes. *
+    <img width="1235" alt="image" src="https://user-images.githubusercontent.com/95883827/217074905-e450967c-7e66-4693-a4d5-91b484a32537.png">
+
+ 16. **Screen Capture**(AppleSeed)
+    <img width="947" alt="image" src="https://user-images.githubusercontent.com/95883827/217075077-b531042b-8e47-43b8-ac22-79d5fdb5e501.png">
+
+ 17. **Video Capture**(Bandook)
+    <img width="898" alt="image" src="https://user-images.githubusercontent.com/95883827/217075165-61209b54-e9db-4c41-8511-dc072886b791.png">
+
+
+
+
+
+
+
+
+
 
