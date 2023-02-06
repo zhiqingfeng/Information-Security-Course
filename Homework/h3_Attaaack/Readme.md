@@ -121,6 +121,7 @@
     <img width="1182" alt="image" src="https://user-images.githubusercontent.com/95883827/217073978-cd2075c3-d646-4827-aa1d-c861b816f280.png">
     
  6. **Clipboard Data**
+    
     <img width="810" alt="image" src="https://user-images.githubusercontent.com/95883827/217075505-16f8a406-ad85-4c57-ae88-9886038b53bc.png">
 
  7. **Data from Cloud Storage**
