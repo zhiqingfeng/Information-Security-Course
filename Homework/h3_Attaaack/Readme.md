@@ -65,7 +65,24 @@
      - <img width="843" alt="image" src="https://user-images.githubusercontent.com/95883827/217063595-b36a9697-8104-4477-97d3-71bb49eb7027.png">
      
 - **Mapping with ATT&CK**
-   - Formbook is an infostealer that has been around since at least 2016 and has been advertised in hacking forums by the user ng-Coder.
+   Formbook is an infostealer that has been around since at least 2016 and has been advertised in hacking forums by the user ng-Coder.
+   
+   - Steal authorization and login credentials: Credential Access:
+     a) T1555 – Credentials from Password Stores
 
+     i) T1555.003 – Credentials from Web Browsers
+
+     b) T1056 – Input Capture
+
+     i) T1056.001 – Keylogging
+
+   - Keylog information, even if victims use a virtual keyboard, auto-fill, or if they copy and paste: Collection:
+     a) T1056 – Input Capture
+
+     i) T1056.001 – Keylogging
+
+   - Take screenshots: Collection:
+     a) T1113 – Screen Capture
+ 
      
 
