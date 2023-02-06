@@ -9,7 +9,7 @@
 - The list of the ATT&CK enterprise's tactics
 
        - Reconnaissance
-              - Collect as much as information about victim.
+       -      Collect as much as information about victim.
               
        - Resource Development
               - 
