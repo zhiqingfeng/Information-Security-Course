@@ -58,6 +58,7 @@
   
   *All the technique pages follow the same pattern: the technique's name, a list of sub-techniques, a description of the technique, the scorecard that the platforms operate on, and the main data sources for finding that type of activity*
 
-     - One of the best tools out there for working with the ATT&CK Matrix in an interactive way: the ATT&CK Navigator.
-
+     - One of the best tools for working with the ATT&CK Matrix in an interactive way: **the ATT&CK Navigator**.
+       *The ATT&CK Navigator is a web-based tool for annotating and exploring ATT&CK matrices. It can be used to visualize defensive coverage, red/blue     team planning, the frequency of detected techniques, and more.*
+     
 
