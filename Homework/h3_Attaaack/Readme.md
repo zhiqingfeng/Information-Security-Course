@@ -97,7 +97,9 @@
  ### Define technique and subtechnique, and give an example of each.
  
  - Please see the screenshot of each tecniques and its subtechnique.
- - <img width="373" alt="image" src="https://user-images.githubusercontent.com/95883827/217070212-9fb1bf9a-dd80-4fd8-ba8a-021eb54613c4.png">
+  <img width="373" alt="image" src="https://user-images.githubusercontent.com/95883827/217070212-9fb1bf9a-dd80-4fd8-ba8a-021eb54613c4.png">
+  <img width="359" alt="image" src="https://user-images.githubusercontent.com/95883827/217070610-e7f14124-b200-4d68-8ca2-c111d11b1068.png">
+
  
  - Example of each technique.
  - 
