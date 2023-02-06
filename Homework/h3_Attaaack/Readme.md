@@ -8,7 +8,7 @@
 
 - The list of the ATT&CK enterprise's tactics
 
-       -Reconnaissance
+       - *Reconnaissance*
              Collect as much as information about victim.
               
        - Resource Development
