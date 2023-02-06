@@ -182,5 +182,5 @@ Now try to get the username and password on WebGoat.
    <img width="1105" alt="image" src="https://user-images.githubusercontent.com/95883827/217079101-b1b0729b-9ee7-4a8e-ba44-7537c3f58ec0.png">
 6. Worked and login successfully. :) 
 
-
-
+## n) Voluntary bonus: "Testing yourself" in Costa-Gazcón: Practical Threat Intelligence and Data-Driven Threat Hunting Chapter 4: Mapping the Adversary
+*I might be do it a bit later! :) 
