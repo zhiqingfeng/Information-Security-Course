@@ -184,3 +184,17 @@ Now try to get the username and password on WebGoat.
 
 ## n) Voluntary bonus: "Testing yourself" in Costa-Gazcón: Practical Threat Intelligence and Data-Driven Threat Hunting Chapter 4: Mapping the Adversary
 *I might be do it a bit later! :) 
+
+## Sources
+
+**Tasks**
+
+[Tero-Karvinen_h3 Attaaack](https://terokarvinen.com/2023/information-security-2023/)
+
+**Lectures**
+[Chapter 4: Mapping the Adversary](https://learning.oreilly.com/library/view/practical-threat-intelligence/9781838556372/B13376_04_Final_SK_ePub.xhtml#_idParaDest-70)
+
+[MITRE ATT&CK® ](https://attack.mitre.org/)
+
+**External**
+[OWASP WebGoat Sensitive Data Expo Insecure Login](https://www.youtube.com/watch?app=desktop&v=qawrnAIPDRs&ab_channel=TudellTechTV)
