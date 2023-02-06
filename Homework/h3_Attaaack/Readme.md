@@ -168,13 +168,16 @@
 Now try to get the username and password on WebGoat.
 
 1. Run the WebGoat from terminal and then log in.
+   
    <img width="513" alt="image" src="https://user-images.githubusercontent.com/95883827/217078347-c696da8f-8ebe-4e6c-8880-ec72b59c1f72.png">
 
 2. Opened 'inspect'to located the username and password.
+   
    <img width="593" alt="image" src="https://user-images.githubusercontent.com/95883827/217078509-43b50efe-e31c-4670-982d-59d34fc01546.png">
 
 3. Go to 'Network' and press 'Log in'.
 4. I saw the there has a wrong code called 405, press it and go to 'Request'
+  
    <img width="757" alt="image" src="https://user-images.githubusercontent.com/95883827/217078910-85539f4f-4fec-43ed-bc1d-da18caee7ba3.png">
    <img width="558" alt="image" src="https://user-images.githubusercontent.com/95883827/217078965-886b1234-148c-4de5-be71-ca4a4d0fe5ca.png">
 
