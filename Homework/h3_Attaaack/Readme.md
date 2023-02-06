@@ -105,8 +105,10 @@
  
  *I am defining procedure of each tecnique here.*
  
- 1. Adversary-in-the-Middle 
+ 1. **Adversary-in-the-Middle**
     <img width="1103" alt="image" src="https://user-images.githubusercontent.com/95883827/217073019-a3a26b2e-07f6-4600-9dba-9d040ea5abb6.png">
 
- 2. 
+ 2. **Brute Force**
+    <img width="1191" alt="image" src="https://user-images.githubusercontent.com/95883827/217073290-dc84a49d-fa41-40ee-ba2c-883a832cd73a.png">
+
 
