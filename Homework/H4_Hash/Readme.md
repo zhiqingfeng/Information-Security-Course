@@ -22,7 +22,40 @@ sudo apt-get install hashcat
 ```
 
 ## Crack this hash: 8eb8e307a6d649bc7fb51443a06a216f
+I will update this filed soon. :) 
 
 ## Compile John the Ripper, Jumbo version.
+
+1. Up-to-date
+  ```
+   sudo apt-get update
+  ```
+2. Prerequisties
+  ```
+   sudo apt-get -y install micro bash-completion git build-essential libssl-dev zlib1g zlib1g-dev zlib-gst libbz2-1.0 libbz2-dev atool zip wget
+  ```
+3. Clone the git 
+  ```
+   git clone --depth=1 https://github.com/openwall/john.git
+  ```
+4. Run the configure 
+   
+   In this step, I am not able to run the configure, then i install it.
+   
+   <img width="860" alt="image" src="https://user-images.githubusercontent.com/95883827/218572502-2fd0b242-7ea9-491d-af81-c034a401fc3f.png">
+
+  ```
+   /john/src/./configure
+  ```
+  
+  ![image](https://user-images.githubusercontent.com/95883827/218572679-0310be35-12b7-43dd-802f-488931ab5a0c.png)
+
+5. Compliation 
+  In this step, make is not working.
+  ![image](https://user-images.githubusercontent.com/95883827/218572900-157e7634-5256-4be0-9f40-62d139c48db8.png)
+
+
+6. 
+7. 
 
 ## Crack a zip file password
