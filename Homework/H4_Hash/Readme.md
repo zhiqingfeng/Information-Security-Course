@@ -16,6 +16,10 @@
   
 ## Install Hashcat.
 
+Already installed Hashcat during the class. 
+```
+sudo apt-get install hashcat
+```
 
 ## Crack this hash: 8eb8e307a6d649bc7fb51443a06a216f
 
