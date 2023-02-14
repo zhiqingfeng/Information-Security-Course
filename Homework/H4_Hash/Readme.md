@@ -22,7 +22,13 @@ sudo apt-get install hashcat
 ```
 
 ## Crack this hash: 8eb8e307a6d649bc7fb51443a06a216f
-I will update this filed soon. :) 
+
+1. Intsall Hashcat
+
+Faced this issue.
+<img width="736" alt="image" src="https://user-images.githubusercontent.com/95883827/218669291-3cf19a5a-3c16-4f57-8130-f365d9be19fd.png">
+
+*Trying to find the solution, will update later. 
 
 ## Compile John the Ripper, Jumbo version.
 
@@ -54,5 +60,6 @@ I will update this filed soon. :)
   In this step, make is not working.
   ![image](https://user-images.githubusercontent.com/95883827/218572900-157e7634-5256-4be0-9f40-62d139c48db8.png)
 
+*Trying to find the solution, will update later. 
 
 ## Crack a zip file password
