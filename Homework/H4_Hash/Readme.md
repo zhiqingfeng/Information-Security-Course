@@ -29,6 +29,7 @@ Faced this issue.
 <img width="736" alt="image" src="https://user-images.githubusercontent.com/95883827/218669291-3cf19a5a-3c16-4f57-8130-f365d9be19fd.png">
 
 *Trying to find the solution, will update later. 
+*I have tried many ways to configurated the network seting, but it do not allow me access github.com and terokarvinen.com
 
 ## Compile John the Ripper, Jumbo version.
 
@@ -61,5 +62,8 @@ Faced this issue.
   ![image](https://user-images.githubusercontent.com/95883827/218572900-157e7634-5256-4be0-9f40-62d139c48db8.png)
 
 *Trying to find the solution, will update later. 
+*Do not find the solution for it.
+
 
 ## Crack a zip file password
+*This section is not working because i can't find out the how to run make command.
