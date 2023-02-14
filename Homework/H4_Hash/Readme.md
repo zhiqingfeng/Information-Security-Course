@@ -55,7 +55,4 @@ I will update this filed soon. :)
   ![image](https://user-images.githubusercontent.com/95883827/218572900-157e7634-5256-4be0-9f40-62d139c48db8.png)
 
 
-6. 
-7. 
-
 ## Crack a zip file password
