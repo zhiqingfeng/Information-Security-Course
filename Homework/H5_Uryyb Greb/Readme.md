@@ -1,5 +1,5 @@
 # H5_Uryyb Greb
-* I missed this class due to sick leave. So I am trying to understand based on Tero's instruction from the homework. *
+*I missed this class due to sick leave. So I am trying to understand based on Tero's instruction from the homework.*
 
 ## Read and summarize
 
