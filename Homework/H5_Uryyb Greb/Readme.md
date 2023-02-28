@@ -132,6 +132,14 @@ In this section, I will use the KeePassXC to show how to use this password manag
 - Encrypt a file for a specific user using GPG (Using Asymmetric Encryption).(My own email address) 
     <img width="726" alt="image" src="https://user-images.githubusercontent.com/95883827/221801225-1a44ee40-3c9a-4600-aa15-b621295b0354.png">
    
-- 
+- If you then try to read the file, you’ll see that it looks like gibberish. That is expected because the file is encrypted now:
+    <img width="727" alt="image" src="https://user-images.githubusercontent.com/95883827/221801435-d3e0b3c2-b96e-4cd2-ac14-e08a7ade3ebf.png">
+
+- Decrypting the encrypted file with GPG: 
+    <img width="719" alt="image" src="https://user-images.githubusercontent.com/95883827/221801761-394172a8-df99-422b-a028-30bbe3156099.png">
+
+- Enter my passphrase, the file is decrypted.
+    <img width="358" alt="image" src="https://user-images.githubusercontent.com/95883827/221801855-e88a20db-4968-4ae3-9466-76d743664cfa.png">
+
 
     
