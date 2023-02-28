@@ -121,3 +121,17 @@ In this section, I will use the KeePassXC to show how to use this password manag
 
 
 ### Encrypt and decrypt a message (you can use any tool you want, gpg is one option)
+
+- I use GPG.
+- Insalled the GPG package.
+    <img width="601" alt="image" src="https://user-images.githubusercontent.com/95883827/221796828-902df0e7-be41-47ac-a2a1-bad8eb4a58b3.png">
+
+- To begin using GPG to encrypt your communications, you need to create a key pair.
+    <img width="759" alt="image" src="https://user-images.githubusercontent.com/95883827/221798983-56635bb7-1ebb-4666-8e9a-6de8a8512ff6.png">
+    
+- Encrypt a file for a specific user using GPG (Using Asymmetric Encryption).(My own email address) 
+    <img width="726" alt="image" src="https://user-images.githubusercontent.com/95883827/221801225-1a44ee40-3c9a-4600-aa15-b621295b0354.png">
+   
+- 
+
+    
