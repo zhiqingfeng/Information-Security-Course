@@ -91,3 +91,33 @@ The password manager that I am using is KeePassXC.
   
   * KeePassXC is a cross-platform application written in C++ using the Qt framework. We have worked very hard to be consistent across Windows, Linux, and MacOS platforms in terms of user experience and security. It protect all data “at rest” (that is, when it is saved in the password database file *.kdbx).
 
+### Demonstrate the use of a password manager.
+
+In this section, I will use the KeePassXC to show how to use this password manager. (This application is not allow take screenshot, so I am using the picture from here https://keepassxc.org/docs/KeePassXC_UserGuide.html) 
+
+- Install KeePassXC application.
+
+- Open your KeePassXC application. Click the create new database button:
+    ![image](https://user-images.githubusercontent.com/95883827/221794548-050c565f-7019-4caa-b5b7-2cf42ba52aa6.png)
+    
+- Enter the desired database name and a short description (optional):
+    ![image](https://user-images.githubusercontent.com/95883827/221794726-5aa4be2a-fa5d-4d2d-a9f5-4013f3791b07.png)
+
+- Click Continue. The Encryption Settings screen appears, no need to make any changes, just set it up as default:
+    ![image](https://user-images.githubusercontent.com/95883827/221794876-86f9a9a4-bf67-4495-bad7-15a79f351841.png)
+
+- Click the Continue button. Enter your database password:
+    ![image](https://user-images.githubusercontent.com/95883827/221795006-1777e01c-9599-4f77-bed5-55f0f2900fcb.png)
+- NOW IT'S FINISH FOR SET UP THE NEW PASSWORD DATABASE.
+
+- Open the database you've setup just now.
+    ![image](https://user-images.githubusercontent.com/95883827/221795213-aa413dc7-8b12-4b1e-a286-6914a092d01c.png)
+
+- Add as much as you want as the picture display. 
+    ![image](https://user-images.githubusercontent.com/95883827/221795632-0c8efec3-5829-4228-8ec9-5c47caf289bd.png)
+
+    ![image](https://user-images.githubusercontent.com/95883827/221795373-0ef13e97-e830-40d3-a44c-f035a0cc3d1c.png)
+
+
+
+### Encrypt and decrypt a message (you can use any tool you want, gpg is one option)
