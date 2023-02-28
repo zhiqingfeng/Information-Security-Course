@@ -6,7 +6,8 @@
 Schneier 2015: Applied Cryptography: 10. Using Algorigthms: 10.1, 10.2, 10.3, 10.4 (from start until the start of "Dereferencing Keys" in 10.4)
 
 ### Using Algorithms
-    * algorithms are only one small part of security and any system can be compromised if one of the components is weak. It is not enough to just have      strong algorithms, which is other security measures are also important. Cryptography can be used to make petty crime more difficult,but most successful attacks are due to implementation errors, not cryptanalysis. Therefore, it is important to consider all aspects of security when designing a application or system.
+
+algorithms are only one small part of security and any system can be compromised if one of the components is weak. It is not enough to just have      strong algorithms, which is other security measures are also important. Cryptography can be used to make petty crime more difficult,but most successful attacks are due to implementation errors, not cryptanalysis. Therefore, it is important to consider all aspects of security when designing a application or system.
     
 ### 10.1 CHOOSING AN ALGORITHM
   
