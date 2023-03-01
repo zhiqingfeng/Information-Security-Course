@@ -148,4 +148,11 @@ In this section, I will use the KeePassXC to show how to use this password manag
     <img width="358" alt="image" src="https://user-images.githubusercontent.com/95883827/221801855-e88a20db-4968-4ae3-9466-76d743664cfa.png">
 
 
-    
+## Sources
+
+
+[Using GPG to Encrypt and Decrypt Files on Linux [Hands-on for Beginners]](https://itsfoss.com/gpg-encrypt-files-basic/)
+
+[KeePassXC: User Guide]](https://keepassxc.org/docs/KeePassXC_UserGuide.html)
+
+[Using GPG to Encrypt and Decrypt Files on Linux [Hands-on for Beginners]](https://itsfoss.com/gpg-encrypt-files-basic/)
