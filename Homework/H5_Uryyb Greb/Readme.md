@@ -153,6 +153,6 @@ In this section, I will use the KeePassXC to show how to use this password manag
 
 [Using GPG to Encrypt and Decrypt Files on Linux [Hands-on for Beginners]](https://itsfoss.com/gpg-encrypt-files-basic/)
 
-[KeePassXC: User Guide]](https://keepassxc.org/docs/KeePassXC_UserGuide.html)
+[KeePassXC: User Guide](https://keepassxc.org/docs/KeePassXC_UserGuide.html)
 
 [Using GPG to Encrypt and Decrypt Files on Linux [Hands-on for Beginners]](https://itsfoss.com/gpg-encrypt-files-basic/)
