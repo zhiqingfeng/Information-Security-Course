@@ -18,4 +18,18 @@ Links:
 - https://infocondb.org/con/def-con/def-con-30/phreaking-20-abusing-microsoft-teams-direct-routing
 - https://www.youtube.com/watch?v=LXxcVi2MMe8&ab_channel=DEFCONConference
 
-2. 
+**2. Slava Makkaveev - Digging into Xiaomi’s TEE to get to Chinese money **
+
+Slava Makkaveev is a security Researcher at Check Point Research.
+
+*Backgroud of Xiaomi and TEE:*
+
+Xiaomi is a Chinese electronics company that has become popular in recent years for its range of innovative products. One of the products that stands out is their Trusted Execution Environment (TEE). This is an embedded system that works alongside the main processor and provides additional security for the device. It has been designed to protect important data from being accessed by malicious actors.
+
+The TEE is based on the ARM TrustZone technology which is used by many other companies. It works by isolating sensitive data and processes from the main processor, keeping them secure and inaccessible. The TEE also provides an additional layer of security by encrypting data before it is sent or received.
+
+The TEE is a key part of Xiaomi's strategy to increase its presence in the Chinese market. The company has been working to make its products more secure and appealing to Chinese consumers. This is especially important considering the amount of money and data that is exchanged in the country. By having a secure TEE, Xiaomi can ensure that their products are secure and can help protect their customers' data.
+
+The TEE is a crucial part of Xiaomi's success in China. It helps to protect the company's customers from malicious actors and also helps them to build trust with their customers. This, in turn, helps to increase sales and the company's overall presence in the Chinese market.
+
+
