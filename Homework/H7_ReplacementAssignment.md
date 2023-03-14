@@ -18,7 +18,7 @@ Links:
 - https://infocondb.org/con/def-con/def-con-30/phreaking-20-abusing-microsoft-teams-direct-routing
 - https://www.youtube.com/watch?v=LXxcVi2MMe8&ab_channel=DEFCONConference
 
-**2. Slava Makkaveev - Digging into Xiaomi’s TEE to get to Chinese money **
+**2. Slava Makkaveev - Digging into Xiaomi’s TEE to get to Chinese money**
 
 Slava Makkaveev is a security Researcher at Check Point Research.
 
@@ -32,4 +32,7 @@ The TEE is a key part of Xiaomi's strategy to increase its presence in the Chine
 
 The TEE is a crucial part of Xiaomi's success in China. It helps to protect the company's customers from malicious actors and also helps them to build trust with their customers. This, in turn, helps to increase sales and the company's overall presence in the Chinese market.
 
+Slava Makkaveev’s presentation is about the Xiaomi’s Trusted Execution Environment (TEE) provides an in-depth look at how Xiaomi is using the TEE to gain access to Chinese banking and payments systems. In his research, Slava Makkaveev examines the architecture of Xiaomi’s TEE and how it is used to securely store and process payment and banking data. Furthermore, he looks at the security implications of using the TEE and how it could be used for malicious purposes. His research also provides insight into the Chinese banking system and how it is used by Xiaomi to gain access to Chinese money. 
+
+In conclusion, Slava Makkaveev’s research provides a comprehensive look at Xiaomi’s TEE and how it is being used to gain access to Chinese money. OEM-signed TEEs are a very promiseing area for security researach and Slave found two ways to attack WeChat Pay on Xiaomi devices owered by MediaTek chips. But Xiaomi fixed most of the issues in June 2022. 
 
