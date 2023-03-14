@@ -36,3 +36,6 @@ Slava Makkaveev’s presentation is about the Xiaomi’s Trusted Execution Envir
 
 In conclusion, Slava Makkaveev’s research provides a comprehensive look at Xiaomi’s TEE and how it is being used to gain access to Chinese money. OEM-signed TEEs are a very promiseing area for security researach and Slave found two ways to attack WeChat Pay on Xiaomi devices owered by MediaTek chips. But Xiaomi fixed most of the issues in June 2022. 
 
+Links:
+- https://infocondb.org/con/def-con/def-con-30/digging-into-xiaomis-tee-to-get-to-chinese-money
+- https://www.youtube.com/watch?v=huAJpikYBdk&ab_channel=DEFCONConference
