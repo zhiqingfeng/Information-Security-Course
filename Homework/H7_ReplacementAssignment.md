@@ -1,0 +1,1 @@
+Your replacement task h7 for missing the last week is: summarize two security releated conference videos (full length, about half an hour to an hour plus). You can find those on https://infocondb.org/con/ or Youtube channels of conferences like Disobey, RSA, Black Hat... Return as h7 laksu. 
